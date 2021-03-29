@@ -1,0 +1,19 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image:url("sports.jpg") ;
+	background-size: cover;
+	background-position: center;
+	background-color: white;
+   
+	
+}
+
+#canvas{
+border-width: 10px;	
+border-style:ridge;
+
+}
